@@ -1,0 +1,27 @@
+A A A A A A A A A A A A A A A A A
+A R V V V V V A A V V V V V R A A
+A E E E A A E T T E A A E E E A A
+A R R E A A E E E E A A E R R A A
+A V T E R R E T T E R R E T V A A
+A T T E E E E A A E E E E T T A A
+A V T R R R R A A R R R R T V A A
+A A A A A A A A A A A A A A A A A
+A A A A A A A A A A A A A A A A A
+A R V V V V V A A V V V V V R A A
+A E E E A A E T T E A A E E E A A
+A R R E A A E E E E A A E R R A A
+A V T E R R E T T E R R E T V A A
+A T T E E E E A A E E E E T T A A
+A V T R R R R A A R R R R T V A A
+A A A A A A A A A A A A A A A A A
+A A A A A A A A A A A A A A A A A
+A A A A A A A A A A A A A A A A A
+A A A A A A A A A A A A A A A A A
+SimCity
+77
+2512.2
+300 122
+450 198
+200 77
+26
+56

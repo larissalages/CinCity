@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Campanhas.h" open="1" top="0" tabpos="6">
+		<Cursor position="156" topLine="0" />
+	</File>
+	<File name="Combate.h" open="1" top="0" tabpos="11">
+		<Cursor position="7436" topLine="37" />
+	</File>
+	<File name="Crimes.h" open="1" top="0" tabpos="5">
+		<Cursor position="13315" topLine="0" />
+	</File>
+	<File name="Declarar.h" open="1" top="0" tabpos="9">
+		<Cursor position="0" topLine="18" />
+	</File>
+	<File name="Desalocar.h" open="1" top="0" tabpos="12">
+		<Cursor position="485" topLine="0" />
+	</File>
+	<File name="Desastres.h" open="1" top="0" tabpos="4">
+		<Cursor position="5283" topLine="0" />
+	</File>
+	<File name="Obras.h" open="1" top="0" tabpos="2">
+		<Cursor position="3807" topLine="0" />
+	</File>
+	<File name="OutrasFuncoes1.h" open="1" top="1" tabpos="3">
+		<Cursor position="1855" topLine="0" />
+	</File>
+	<File name="PrepararViaturas.h" open="1" top="0" tabpos="7">
+		<Cursor position="79" topLine="0" />
+	</File>
+	<File name="Viaturas.h" open="1" top="0" tabpos="8">
+		<Cursor position="204" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="10270" topLine="280" />
+	</File>
+	<File name="struct.h" open="1" top="0" tabpos="10">
+		<Cursor position="1058" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

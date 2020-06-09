@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Simcity" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output=".\Simcity" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="alld" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output=".\Simcity" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="alleg" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Campanhas.h" />
+		<Unit filename="Combate.h" />
+		<Unit filename="Crimes.h" />
+		<Unit filename="Declarar.h" />
+		<Unit filename="Desalocar.h" />
+		<Unit filename="Desastres.h" />
+		<Unit filename="Obras.h" />
+		<Unit filename="OutrasFuncoes1.h" />
+		<Unit filename="PrepararViaturas.h" />
+		<Unit filename="Viaturas.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="struct.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,307 @@
+# depslib dependency file v1.0
+1339613100 source:e:\projeto ip\simcity6\simcity\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"struct.h"
+	"Desastres.h"
+	"OutrasFuncoes1.h"
+	"Obras.h"
+
+1339613100 e:\projeto ip\simcity6\simcity\struct.h
+
+1339613100 e:\projeto ip\simcity6\simcity\desastres.h
+
+1339613100 e:\projeto ip\simcity6\simcity\outrasfuncoes1.h
+
+1339613384 e:\projeto ip\simcity6\simcity\obras.h
+
+1339636270 source:c:\users\letícia\eng da comp\programação\projeto ip\teoricamente o definitivo\simcity6\simcity\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"struct.h"
+	"Desastres.h"
+	"OutrasFuncoes1.h"
+	"Obras.h"
+	"Campanhas.h"
+
+1339613100 c:\users\letícia\eng da comp\programação\projeto ip\teoricamente o definitivo\simcity6\simcity\struct.h
+
+1339613100 c:\users\letícia\eng da comp\programação\projeto ip\teoricamente o definitivo\simcity6\simcity\desastres.h
+
+1339632784 c:\users\letícia\eng da comp\programação\projeto ip\teoricamente o definitivo\simcity6\simcity\outrasfuncoes1.h
+
+1339633590 c:\users\letícia\eng da comp\programação\projeto ip\teoricamente o definitivo\simcity6\simcity\obras.h
+
+1339636358 c:\users\letícia\eng da comp\programação\projeto ip\teoricamente o definitivo\simcity6\simcity\campanhas.h
+
+1339989556 source:i:\projeto ip\simcity7\simcity\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"struct.h"
+	"Desastres.h"
+	"OutrasFuncoes1.h"
+	"Obras.h"
+	"Campanhas.h"
+	"Viaturas.h"
+
+1339613100 i:\projeto ip\simcity7\simcity\struct.h
+
+1339948014 i:\projeto ip\simcity7\simcity\desastres.h
+
+1339989568 i:\projeto ip\simcity7\simcity\outrasfuncoes1.h
+	"Crimes.h"
+
+1339991530 i:\projeto ip\simcity7\simcity\obras.h
+
+1339812766 i:\projeto ip\simcity7\simcity\campanhas.h
+	"PrepararViaturas.h"
+
+1339820412 source:e:\projeto ip\simcity7\simcity\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"struct.h"
+	"Desastres.h"
+	"OutrasFuncoes1.h"
+	"Obras.h"
+	"Campanhas.h"
+	"Viaturas.h"
+
+1339613100 e:\projeto ip\simcity7\simcity\struct.h
+
+1339871428 e:\projeto ip\simcity7\simcity\desastres.h
+
+1339820412 e:\projeto ip\simcity7\simcity\outrasfuncoes1.h
+	"Crimes.h"
+
+1339720378 e:\projeto ip\simcity7\simcity\obras.h
+
+1339812766 e:\projeto ip\simcity7\simcity\campanhas.h
+	"PrepararViaturas.h"
+
+1340128824 source:d:\projeto ip\simcity7\simcity\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"struct.h"
+	"Desastres.h"
+	"OutrasFuncoes1.h"
+	"Obras.h"
+	"Campanhas.h"
+
+1340128840 d:\projeto ip\simcity7\simcity\struct.h
+
+1339948014 d:\projeto ip\simcity7\simcity\desastres.h
+
+1340126882 d:\projeto ip\simcity7\simcity\outrasfuncoes1.h
+	"Crimes.h"
+
+1339991530 d:\projeto ip\simcity7\simcity\obras.h
+
+1340126690 d:\projeto ip\simcity7\simcity\campanhas.h
+	"PrepararViaturas.h"
+	"Viaturas.h"
+
+1339948266 i:\projeto ip\simcity7\simcity\crimes.h
+
+1339948266 d:\projeto ip\simcity7\simcity\crimes.h
+
+1339803020 i:\projeto ip\simcity7\simcity\viaturas.h
+	"PrepararViaturas.h"
+
+1339808660 i:\projeto ip\simcity7\simcity\prepararviaturas.h
+	<string.h>
+
+1339780360 e:\projeto ip\simcity7\simcity\crimes.h
+
+1339808660 e:\projeto ip\simcity7\simcity\prepararviaturas.h
+	<string.h>
+
+1339803020 e:\projeto ip\simcity7\simcity\viaturas.h
+	"PrepararViaturas.h"
+
+1340123626 d:\projeto ip\simcity7\simcity\prepararviaturas.h
+	<string.h>
+
+1340124442 d:\projeto ip\simcity7\simcity\viaturas.h
+	"PrepararViaturas.h"
+
+1340129038 source:d:\simcity7\simcity\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"struct.h"
+	"Desastres.h"
+	"OutrasFuncoes1.h"
+	"Obras.h"
+	"Campanhas.h"
+
+1340129038 d:\simcity7\simcity\struct.h
+
+1339948014 d:\simcity7\simcity\desastres.h
+
+1340126882 d:\simcity7\simcity\outrasfuncoes1.h
+	"Crimes.h"
+
+1339948266 d:\simcity7\simcity\crimes.h
+
+1339991530 d:\simcity7\simcity\obras.h
+
+1340126690 d:\simcity7\simcity\campanhas.h
+	"PrepararViaturas.h"
+	"Viaturas.h"
+
+1340123626 d:\simcity7\simcity\prepararviaturas.h
+	<string.h>
+
+1340124442 d:\simcity7\simcity\viaturas.h
+	"PrepararViaturas.h"
+
+1340277724 source:f:\simcity7\simcity\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"struct.h"
+	"Desastres.h"
+	"OutrasFuncoes1.h"
+	"Obras.h"
+	"Campanhas.h"
+	"Declarar.h"
+
+1340195136 f:\simcity7\simcity\struct.h
+
+1340277898 f:\simcity7\simcity\desastres.h
+
+1340277724 f:\simcity7\simcity\outrasfuncoes1.h
+	"Crimes.h"
+	"PrepararViaturas.h"
+
+1340277916 f:\simcity7\simcity\crimes.h
+
+1340277606 f:\simcity7\simcity\obras.h
+
+1340277580 f:\simcity7\simcity\campanhas.h
+	"PrepararViaturas.h"
+	"Viaturas.h"
+
+1340153854 f:\simcity7\simcity\prepararviaturas.h
+	<string.h>
+
+1340124442 f:\simcity7\simcity\viaturas.h
+	"PrepararViaturas.h"
+
+1340277848 f:\simcity7\simcity\declarar.h
+
+1340470902 source:e:\projeto ip\simcity9\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"struct.h"
+	"Desastres.h"
+	"OutrasFuncoes1.h"
+	"Obras.h"
+	"Campanhas.h"
+	"Declarar.h"
+
+1340394438 e:\projeto ip\simcity9\struct.h
+
+1340467212 e:\projeto ip\simcity9\desastres.h
+	"Combate.h"
+	"Declarar.h"
+	<string.h>
+
+1340475988 e:\projeto ip\simcity9\combate.h
+	"PrepararViaturas.h"
+
+1340391156 e:\projeto ip\simcity9\prepararviaturas.h
+	<string.h>
+
+1340470378 e:\projeto ip\simcity9\outrasfuncoes1.h
+	"Crimes.h"
+	"PrepararViaturas.h"
+	"Combate.h"
+	"Declarar.h"
+
+1340470376 e:\projeto ip\simcity9\crimes.h
+
+1340470376 e:\projeto ip\simcity9\declarar.h
+
+1340277606 e:\projeto ip\simcity9\obras.h
+
+1340391156 e:\projeto ip\simcity9\campanhas.h
+	"PrepararViaturas.h"
+	"Viaturas.h"
+
+1340124442 e:\projeto ip\simcity9\viaturas.h
+	"PrepararViaturas.h"
+
+1340589316 source:i:\projeto ip\simcity9\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"struct.h"
+	"Desastres.h"
+	"OutrasFuncoes1.h"
+	"Obras.h"
+	"Campanhas.h"
+	"Declarar.h"
+	"Desalocar.h"
+	"Combate.h"
+
+1340394438 i:\projeto ip\simcity9\struct.h
+
+1340588124 i:\projeto ip\simcity9\desastres.h
+	"Combate.h"
+	"Declarar.h"
+	<string.h>
+
+1340587466 i:\projeto ip\simcity9\combate.h
+	"PrepararViaturas.h"
+
+1340579960 i:\projeto ip\simcity9\prepararviaturas.h
+	<string.h>
+
+1340589316 i:\projeto ip\simcity9\outrasfuncoes1.h
+	"Crimes.h"
+	"PrepararViaturas.h"
+	"Combate.h"
+	"Declarar.h"
+
+1340587466 i:\projeto ip\simcity9\crimes.h
+
+1340577074 i:\projeto ip\simcity9\declarar.h
+
+1340567194 i:\projeto ip\simcity9\obras.h
+
+1340503714 i:\projeto ip\simcity9\campanhas.h
+	"PrepararViaturas.h"
+	"Viaturas.h"
+
+1340124442 i:\projeto ip\simcity9\viaturas.h
+	"PrepararViaturas.h"
+
+1340503460 i:\projeto ip\simcity9\desalocar.h
+
